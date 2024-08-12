@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin-top: 50px;
+    padding: 0 20px;
+}
+
+header {
+    background-color: #ff69b4; 
+    padding: 20px;
+    text-align: justify; 
+}
+
+header h1 {
+    color: rgb(15, 15, 15);
+    margin: 0;
+}
+
+p {
+    text-align: justify; 
+    color: #333;
+    line-height: 1.6;
+}
+
+h2 {
+    color: #050505;
+}
